@@ -1,0 +1,10 @@
+body {
+    background-color: azure;
+}
+.nav-bar{
+   position: relative;  
+}
+.nav-bar img{
+    border-radius:50%;
+    border:1px solid black;
+}
